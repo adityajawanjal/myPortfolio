@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adityajawanjal/portfolio.github.io/static/css/main.eebc6a20.css",
+    "main.js": "/adityajawanjal/portfolio.github.io/static/js/main.b01a5fcf.js",
+    "static/media/Photo.png": "/adityajawanjal/portfolio.github.io/static/media/Photo.dd99dc2686358947987a.png",
+    "static/media/Think.png": "/adityajawanjal/portfolio.github.io/static/media/Think.3278dd0be3a1dcc40576.png",
+    "static/media/Logo.png": "/adityajawanjal/portfolio.github.io/static/media/Logo.bc41f5aea78c6b9b7849.png",
+    "index.html": "/adityajawanjal/portfolio.github.io/index.html",
+    "main.eebc6a20.css.map": "/adityajawanjal/portfolio.github.io/static/css/main.eebc6a20.css.map",
+    "main.b01a5fcf.js.map": "/adityajawanjal/portfolio.github.io/static/js/main.b01a5fcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebc6a20.css",
+    "static/js/main.b01a5fcf.js"
+  ]
+}
